@@ -33,7 +33,7 @@ body {
     display: grid;
     grid-template-columns: repeat(12,1fr); 
 }
-#clock-box #clock {
+#clock-box .clock {
     grid-column: 4 / 10;
     background-color: #F8C8C8;
     padding: .6rem 2rem;
